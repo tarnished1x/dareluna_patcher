@@ -1,13 +1,1 @@
-Hi Dominic,
 
-Thank you for your reply. I've prepared a GitHub repository containing the complete source code for my dareluna patcher, including the Windows GUI, patch generation script, manifest, and source-dependent patch payload.
-
-Repository: [INSERT YOUR GITHUB REPOSITORY URL HERE]
-
-The README includes detailed Windows build instructions (Go 1.22 or later), the exact command used to compile the EXE, and an automated GitHub Actions workflow that builds the Windows executable from the published repository.
-
-The original and completed Marvel Rivals mod files are not uploaded. The patcher requires verified original files supplied by the user, works offline, and does not modify game memory or interact with anti-cheat.
-
-Please let me know if you need any additional files or information for your security review.
-
-Best regards
