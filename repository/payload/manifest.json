@@ -1,0 +1,37 @@
+{
+  "format_version": 1,
+  "game": "Marvel Rivals",
+  "title": "dareluna patcher",
+  "files": [
+    {
+      "source": "Luna DD PJS DP_9999999_P.pak",
+      "output": "Luna_DD_PJS_9999999_P.pak",
+      "source_size": 4837,
+      "output_size": 416,
+      "source_sha256": "9c099993fd3cd9f4c0cc3ee834c118a29a166df6d14522e52d722766ff351aa7",
+      "output_sha256": "5ae1ed86deb66c2d7feaa38219554977f7fb554f639dc43c80bbc3672443f9e9",
+      "payload": "pak.rvp",
+      "payload_sha256": "e8b64a0aa5f83557fe9f5afefbee8c85c7584bfab5af8d28aecffdb1ab51c589"
+    },
+    {
+      "source": "Luna DD PJS DP_9999999_P.ucas",
+      "output": "Luna_DD_PJS_9999999_P.ucas",
+      "source_size": 4843598,
+      "output_size": 3496491,
+      "source_sha256": "3080b60745bf5aed526f6372975e2bb5aa080f971f14f655c5b3e8505aad1d54",
+      "output_sha256": "0d71fad93a6cdea3353aaf0eaa41fd8dd4d05c115a8e2d7ad4e368dbb5e0e2ed",
+      "payload": "ucas.rvp",
+      "payload_sha256": "4dce18fb80e5f6ea496e70797f80ad6523eca54ad6da02c41a7bee45f9e2d803"
+    },
+    {
+      "source": "Luna DD PJS DP_9999999_P.utoc",
+      "output": "Luna_DD_PJS_9999999_P.utoc",
+      "source_size": 5501,
+      "output_size": 4786,
+      "source_sha256": "24abae7417a739038f8c2a69e0c40119dac39120c229ddd5b795492d2eb3f650",
+      "output_sha256": "bc8252856897068484a9754e30d5771548dd862cdd554e58e4ec69d66c0c7b20",
+      "payload": "utoc.rvp",
+      "payload_sha256": "598dd6ffcd7a5c8fcd857fddd246068d941ae55897cc2184d3b98592f975677a"
+    }
+  ]
+}
